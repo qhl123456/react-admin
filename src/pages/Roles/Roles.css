@@ -1,0 +1,29 @@
+.firstexpanded {
+  width: 245px;
+}
+.secondexpanded {
+  width: 930px;
+}
+.thirdexpanded {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  padding: 5px;
+}
+.expanded {
+  display: flex;
+  align-items: center;
+  border: 1px solid #eee;
+  padding: 10px;
+}
+.thirdexpandedLeft {
+  width: 240px;
+}
+.thirdexpandedRight {
+  width: 698px;
+}
+.ant-tag {
+  height: 32px;
+  line-height: 28px;
+  border-radius: 5px;
+}
